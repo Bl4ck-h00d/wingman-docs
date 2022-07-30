@@ -14,7 +14,7 @@ Wingman repository is not open source yet. This repository serves as a high leve
 * Typescript
 * Node.js
 * RabbitMQ
-* Postgres
+* PostgreSQL
 
 ### Deployment
 * AWS EC2 & S3
